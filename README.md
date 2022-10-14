@@ -29,21 +29,21 @@
 
 <div align="center">
   <a href="https://github.com/thiagokraft">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokraft&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=false&show_owner=true"/>
-    </br>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokraft&theme=vue-dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokraft&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=false&show_owner=true"/>  </br>
+    <img height="150em" width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokraft&theme=vue-dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
 <div align="center" valign="top"><br>
  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="30" src="https://www.svgrepo.com/show/217753/github.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="github" height="28" width="28" src="https://www.svgrepo.com/show/217753/github.svg">
+  <img align="center" alt="git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
 </div><br>
 
 <div align="center">
