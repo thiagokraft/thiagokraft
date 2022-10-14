@@ -4,6 +4,7 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/thiago-kraw/">Thiago Krawczyk</a>, 
     Mas pode me chamar de Kraft.
+    🤝
   </h1>
   
   <p align="center">
