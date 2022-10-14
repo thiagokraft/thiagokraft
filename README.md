@@ -8,8 +8,9 @@
   </h1>
   
   <p align="center">
-    Sou um fotógrafo profissional cansado de remover cravos e espinhas no Photoshop.
-    Atualmente estou em fase de recolocação de carreira.
+    Sou um fotógrafo profissional cansado de remover cravos e espinhas no Photoshop. <br>
+    Atualmente estou em fase de recolocação de carreira.<br>
+     Dev 40+ 😉️<br>
     <a href="https://www.youtube.com/channel/UCw7eTZH9S8oSwWneJtw8rpA?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
@@ -22,7 +23,6 @@
   </p>
   
   <p align="center">
-   Dev 40+ 😉️
   </p>
 
 </div>
