@@ -20,5 +20,4 @@
  
  </div>
 
-  ##    
-    ![snake gif](https://github.com/thiagokraft/thiagokraft/blob/output/github-contribution-grid-snake.svg)
+  ##
