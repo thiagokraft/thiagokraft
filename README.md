@@ -21,7 +21,9 @@
       />
     </a>  
   </p>
-  
+  <p align="center">
+- 🔭 Trabalhando em projetos pessoais <br>
+- 🌱 Estudando HTML, CSS e JavaScript
   <p align="center">
   </p>
 
